@@ -237,7 +237,7 @@ body {
  overflow:hidden;
  margin:0!important;
  position:absolute;
- transform: translate(250px, 150px);
+ transform: translate(200px, 100px);
 }
 #popupWindow {
  z-index:100!important
