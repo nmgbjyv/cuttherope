@@ -11,7 +11,8 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
  display:block
 }
 body {
- line-height:1
+ line-height:1;
+ background-color: greysmoke;
 }
 ol,ul {
  list-style:none
@@ -237,7 +238,7 @@ body {
  overflow:hidden;
  margin:0!important;
  position:absolute;
- transform: translate(150px, 50px);
+ transform: translate(175px, 75px);
 }
 #popupWindow {
  z-index:100!important
