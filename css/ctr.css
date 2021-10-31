@@ -239,7 +239,7 @@ body {
  position:absolute;
  top: 50%;
  left: 50%;
- transform: translate(0%, 200%);
+ transform: translate(-50%, 200%);
 }
 #popupWindow {
  z-index:100!important
